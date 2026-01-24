@@ -2,3 +2,8 @@ Hi, This is v1.
 Hi, This is V2
 this is v3
 this is version4-xyz
+This is the v6
+This is v7
+This is v8
+
+git reset --mixed HEAD~1(Unstaging the latest changes)
